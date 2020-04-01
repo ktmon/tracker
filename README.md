@@ -27,6 +27,7 @@
 - mybatis
 - jpa
 - junit4
+- maven
 
 
 ##계획
